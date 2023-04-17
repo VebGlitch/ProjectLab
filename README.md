@@ -6,7 +6,7 @@ This repository serves as a directory that helps you easily navigate through my 
 
 |  #  | Project Github Repo | Live Demo | Project Type
 | --- | ------------------------------------------------ | --------------------  | -------------------- |
-| 01  | VG-WebSite `live`| [Live Demo]()| [Tutorial]()|
+| 01  | VG-WebSite `live-In-Production` `Repo Link`| [Live Demo]()| [Tutorial]()|
 | 02  | [digitalResume-webpage]()| [Live Demo]()| [Tutorial]() |
 | 03  | [MyPortfolio-website]()| [Live Demo]()| [Tutorial]()
 | 04  | [Gaurav-Saini]()| [Live Demo]()| [Tutorial]()
