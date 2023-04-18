@@ -17,6 +17,15 @@ This repository serves as a directory that helps you easily navigate through the
 
 
 
+---
+
+
+[`NoteBook`](https://github.com/VebGlitch/NoteBook) Nilesh's curated Notes-Library.
+[`ProjectsTab`](https://github.com/VebGlitch?query=is%3Aopen+sort%3Acreated-asc&tab=projects) to navigate my current working projects workflow. [`Gist`](https://gist.github.com/VebGlitch) serves as a all my code, notes, and snippets.
+
+
+ 
+
 
 
 
