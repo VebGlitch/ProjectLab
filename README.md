@@ -19,7 +19,7 @@ This repository serves as a directory that helps you easily navigate through the
 
 ---
 
-                        ---------------------------- ⭐ The End ⭐ ----------------------------
+                        ---------------------------- ⭐ Keep Learning ⭐ ----------------------------
 
 
 [`NoteBook`](https://github.com/VebGlitch/NoteBook) Nilesh's curated Notes-Library.
