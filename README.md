@@ -1,43 +1,19 @@
 # ProjectLab
-This repository serves as a directory that helps you easily navigate through my other repositories and view the various projects I have completed.
+This repository serves as a directory that helps you easily navigate through the various projects I have completed.
 
 
 #### Collection of all projects(Public) 
 
-|  #  | Project Github Repo | Live Demo | Project Type
-| --- | ------------------------------------------------ | --------------------  | -------------------- |
-| 01  | VG-WebSite `live-In-Production` `Repo Link`| [Live Demo]()| [Tutorial]()|
-| 02  | [digitalResume-webpage]()| [Live Demo]()| [Tutorial]() |
-| 03  | [MyPortfolio-website]()| [Live Demo]()| [Tutorial]()
-| 04  | [Gaurav-Saini]()| [Live Demo]()| [Tutorial]()
-| 05  | [SR-collection]()| [Live Demo]()| [Tutorial]()
-| 06  | [AHopeClasses]()| [Live Demo]()| [Tutorial]()|
-| 07  | [iuVcare]()| [Live Demo]()| [Tutorial]() |
-| 08  | [ProjectName]()| [Live Demo]()| [Tutorial]()
-| 09  | [ProjectName]()| [Live Demo]()| [Tutorial]()
-| 10  | [ProjectName]()| [Live Demo]()| [Tutorial]()
-
-
-
-
-
----
-
-#### Collection of all projects(Private) 
-
-|  #  | Project Github Repo | Live Demo | Project Type
-| --- | ------------------------------------------------ | --------------------  | -------------------- |
-| 01  | VG-WebSite| [Live Demo]()| [Tutorial]()|
-| 02  | [digitalResume-webpage]()| [Live Demo]()| [Tutorial]() |
-| 03  | [MyPortfolio-website]()| [Live Demo]()| [Tutorial]()
-| 04  | [Gaurav-Saini]()| [Live Demo]()| [Tutorial]()
-| 05  | [SR-collection]()| [Live Demo]()| [Tutorial]()
-| 06  | [AHopeClasses]()| [Live Demo]()| [Tutorial]()|
-| 07  | [iuVcare]()| [Live Demo]()| [Tutorial]() |
-| 08  | [ProjectName]()| [Live Demo]()| [Tutorial]()
-| 09  | [ProjectName]()| [Live Demo]()| [Tutorial]()
-| 10  | [ProjectName]()| [Live Demo]()| [Tutorial]()
-
+|  #  | Project(public)  | Project(private) |
+| --- | ------------------------------------------------ | --------------------  |
+| 01  | VG-WebSite [`Repo`]() [`live-In-Production`]()  | VG-WebSite [`live-In-Production`]() |
+| 02  | |  | 
+| 03  | |  |
+| 04  | |  | 
+| 05  | |  |
+| 06  | |  |
+| 07  | |  |
+| 08  | |  |
 
 
 
