@@ -1,4 +1,3 @@
-# ProjectLab
 This repository serves as a directory that helps you easily navigate through the various projects I have completed.
 
 
