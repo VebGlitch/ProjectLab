@@ -6,7 +6,7 @@ This repository serves as a directory that helps you easily navigate through the
 
 |  #  | Project(public)  | Project(private) |
 | --- | ------------------------------------------------ | --------------------  |
-| 01  | VG-WebSite [`Repo`]() [`live-In-Production`]()  | VG-WebSite [`live-In-Production`]() |
+| 01  | VG-WebSite [`Repository`]() [`live-In-Production`]()  | VG-WebSite [`live-In-Production`]() |
 | 02  | |  | 
 | 03  | |  |
 | 04  | |  | 
