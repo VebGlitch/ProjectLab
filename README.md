@@ -2,7 +2,7 @@
 This repository serves as a directory that helps you easily navigate through the various projects I have completed.
 
 
-#### Collection of all projects(Public) 
+#### `All Projects` (Public+Private) 
 
 |  #  | Project(public)  | Project(private) |
 | --- | ------------------------------------------------ | --------------------  |
